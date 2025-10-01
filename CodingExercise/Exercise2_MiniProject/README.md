@@ -48,6 +48,9 @@ This project demonstrates strong **object-oriented programming principles (OOP)*
 ---
 
 ## ▶️ How to Run
+        1.Import into IntelliJ or preferred IDE.
+        2.Build and run desired modules as described.
+        3.Follow input formats exactly for interactive parts.
 ### 1. Compile
 Navigate to the project root and compile all files:
 ```bash
@@ -73,3 +76,4 @@ Task added successfully.
 Choose option: 3
 
 09:00 - 10:00: Spacewalk Prep [High]
+
