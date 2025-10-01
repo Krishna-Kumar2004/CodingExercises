@@ -4,10 +4,10 @@ public class ObserverPatternMain {
 
     public static void main(String[] args) {
         iphone product1=new iphone("iphone 17");
-        Customers c1= new Users("Dinesh");
-        Customers c2= new Users("Deeraj");
-        Customers c3= new Users("Aravind");
-        Customers c4=new Users("Divahar");
+        Customers c1= new Users("Krishna");
+        Customers c2= new Users("Om");
+        Customers c3= new Users("Hari");
+        Customers c4=new Users("Kapil");
         product1.subscribe(c1);
         product1.subscribe(c2);
         product1.subscribe(c3);

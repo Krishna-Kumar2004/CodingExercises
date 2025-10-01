@@ -1,6 +1,6 @@
 package AdapterPattern;
 
-// Adapter makes OldCharger compatible with Target
+//  OldCharger compatible with Target
 public class Adapter implements Target {
     private OldCharger oldCharger;
 

@@ -1,6 +1,5 @@
 package StrategyPattern;
 
-
 public class Gpay implements paymentStrategy {
     public void pay(int Amount)
     {

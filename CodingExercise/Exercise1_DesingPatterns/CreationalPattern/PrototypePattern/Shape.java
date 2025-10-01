@@ -1,6 +1,6 @@
 package PrototypePattern;
 
-// Abstract prototype class
+// Abstract  class
 public abstract class Shape implements Cloneable {
     protected String type;
 
@@ -8,10 +8,10 @@ public abstract class Shape implements Cloneable {
         this.type = type;
     }
 
-    // Display shape info
+    //  shape info
     public abstract void draw();
 
-    // Implement cloning
+    //  cloning
     public Shape cloneShape() {
         try {
             return (Shape) super.clone();
