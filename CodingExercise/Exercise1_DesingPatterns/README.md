@@ -25,4 +25,7 @@ This project demonstrates the implementation of various **design patterns** in J
 - **Behavioral Patterns:** Observer, Strategy  
 
 ## How to Run
+    1.Import into IntelliJ or preferred IDE.
+    2.Build and run desired modules as described.
+    3.Follow input formats exactly for interactive parts.
 
