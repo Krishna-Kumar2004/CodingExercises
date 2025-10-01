@@ -22,9 +22,9 @@ This repository contains two projects developed for placement exercises:
 ## Exercise 1 - Design Patterns Demos
 
 - Java demonstrations of six design patterns:  
-  Behavioral (Observer, Command),  
-  Creational (Singleton, Factory),  
-  Structural (Adapter, Composite).
+  Behavioral (Observer, Strategy),  
+  Creational (Singleton, Prototypes),  
+  Structural (Adapter, Facade).
 - Run any main pattern demo for visualization.
 - Organized into packages by pattern category.
   
