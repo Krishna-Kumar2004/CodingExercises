@@ -27,13 +27,13 @@ This project demonstrates the implementation of various **design patterns** in J
   **Prototype Pattern:** Creates new objects by cloning an existing object, allowing object creation without depending on their concrete classes.
   
 - **Structural Patterns:**
-- 
-        **Adapter Pattern:** Allows incompatible interfaces to work together by converting the interface of a class into another interface clients expect.  
-        **Facade Pattern:** Provides a simplified interface to a larger body of code, making it easier to use by hiding complex subsystem details.
+  
+   **Adapter Pattern:** Allows incompatible interfaces to work together by converting the interface of a class into another interface clients expect.  
+   **Facade Pattern:** Provides a simplified interface to a larger body of code, making it easier to use by hiding complex subsystem details.
 - **Behavioral Patterns:**
-- 
-        **Observer Pattern:** Defines a one-to-many dependency so that when one object changes state, all its dependents are notified and updated automatically.  
-        **Strategy Pattern:** Enables selecting an algorithm’s behavior at runtime by defining a family of algorithms and making them interchangeable.
+  
+   **Observer Pattern:** Defines a one-to-many dependency so that when one object changes state, all its dependents are notified and updated automatically.  
+   **Strategy Pattern:** Enables selecting an algorithm’s behavior at runtime by defining a family of algorithms and making them interchangeable.
 
 ## How to Run
     1.Import into IntelliJ or preferred IDE.
@@ -44,6 +44,7 @@ This project demonstrates the implementation of various **design patterns** in J
     2.Each package show focused implementation of a paritcular design pattern.
     3.code is commented to enhance the understanding.
     4.Ready to be discussed during your placements interview for demonstration.
+
 
 
 
